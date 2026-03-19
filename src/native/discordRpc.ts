@@ -19,11 +19,11 @@ export async function initDiscordRpc() {
         state: "stoat.chat",
         details: "Chatting with others",
         largeImageKey: "qr",
-        largeImageText: "Join Stoat!",
+        largeImageText: "Join!",
         buttons: [
           {
             label: "Join Stoat",
-            url: "https://stoat.chat/",
+            url: "https://clone.camjam.page/",
           },
         ],
       }),
