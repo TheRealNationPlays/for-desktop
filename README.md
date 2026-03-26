@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  Stoat for Desktop
+  CamPulse for Desktop
   
   [![Stars](https://img.shields.io/github/stars/stoatchat/for-desktop?style=flat-square&logoColor=white)](https://github.com/stoatchat/for-desktop/stargazers)
   [![Forks](https://img.shields.io/github/forks/stoatchat/for-desktop?style=flat-square&logoColor=white)](https://github.com/stoatchat/for-desktop/network/members)
@@ -19,7 +19,7 @@ Application for Windows, macOS, and Linux.
     <img src="https://repology.org/badge/vertical-allrepos/stoat-desktop.svg" alt="Packaging status" align="right">
 </a>
 
-- All downloads and instructions for Stoat can be found on our [Website](https://stoat.chat/download).
+- All downloads and instructions for CamPulse can be found [Nowhere](https://example.com).
 
 ## Development Guide
 
